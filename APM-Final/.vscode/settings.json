@@ -1,4 +1,6 @@
 {
   "files.autoSave": "afterDelay",
-  "html.format.wrapAttributes": "force-aligned"
+  "html.format.wrapAttributes": "force-aligned",
+  "appService.defaultWebAppToDeploy": "/subscriptions/b063792b-620d-42c4-ac33-53b3ab60129b/resourceGroups/myAngularResource/providers/Microsoft.Web/sites/myangularwebsite",
+  "appService.deploySubpath": "."
 }
